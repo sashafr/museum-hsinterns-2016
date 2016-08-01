@@ -6,12 +6,17 @@ Welcome!
 
 ## People
 ![alt text](https://avatars2.githubusercontent.com/u/1661248?v=3&s=96 "Sasha Renninger")
+
 Sasha Renninger, Digital Humanities Specialist
+
 215-898-9331 | @sashafr
+
 [sashafr@upenn.edu](mailto:sashafr@upenn.edu)
 
 ![alt text](http://www.library.upenn.edu/images/staff/laallen125.jpg "Laurie Allen") Laurie Allen, Assistant Director for Digital Scholarship
+
 215-746-2662 | @laallen
+
 [laallen@upenn.edu](mailto:laallen@upenn.edu)
 
 ## The Project
@@ -28,21 +33,21 @@ While the Penn Museum has one of the largest collections of archaeological and e
 **Task**: Identify some questions you have about Native American games
 
 #### Omeka Examples
-*[Gothic Past](http://gothicpast.com/)
-*[Battersea Arts Centre Digital Archive](http://www.bacarchive.org.uk/)
-*[Digital Humanities Projects by Dr. Powell](http://tbpdh.omeka.net/)
-*[The Preface Project](http://prefaceproject.omeka.net/)
-*[Here and Over There] (http://nelc133.omeka.net/)
-*[Wearing Gay History](http://wearinggayhistory.com/)
-*[The Great Congress](http://acsc.lib.udel.edu/great-congress)
-*[Gulag History](http://gulaghistory.org/)
-*[Cleveland Historical Society](http://clevelandhistorical.org/)
+* [Gothic Past](http://gothicpast.com/)
+* [Battersea Arts Centre Digital Archive](http://www.bacarchive.org.uk/)
+* [Digital Humanities Projects by Dr. Powell](http://tbpdh.omeka.net/)
+* [The Preface Project](http://prefaceproject.omeka.net/)
+* [Here and Over There] (http://nelc133.omeka.net/)
+* [Wearing Gay History](http://wearinggayhistory.com/)
+* [The Great Congress](http://acsc.lib.udel.edu/great-congress)
+* [Gulag History](http://gulaghistory.org/)
+* [Cleveland Historical Society](http://clevelandhistorical.org/)
 
 #### Scalar Examples
-*[Performing Archive – Curtis and the Vanishing Race](http://scalar.usc.edu/works/performingarchive/index)
-*[Freedom's Ring](http://freedomsring.stanford.edu/?view=Speech)
-*[Knotted Line](http://knottedline.com/)
-*[The Eugenic Rubicon](http://scalar.usc.edu/works/the-eugenic-rubicon/index)
+* [Performing Archive – Curtis and the Vanishing Race](http://scalar.usc.edu/works/performingarchive/index)
+* [Freedom's Ring](http://freedomsring.stanford.edu/?view=Speech)
+* [Knotted Line](http://knottedline.com/)
+* [The Eugenic Rubicon](http://scalar.usc.edu/works/the-eugenic-rubicon/index)
 
 #### [Scalar Tutorial](http://scalar.usc.edu/works/guide2/getting-started)
 
