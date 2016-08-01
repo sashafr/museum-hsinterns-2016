@@ -9,7 +9,7 @@ Welcome!
 Sasha Renninger, Digital Humanities Specialist
 215-898-9331 | @sashafr
 [sashafr@upenn.edu](mailto:laallen@upenn.edu)
-![alt text](http://www.library.upenn.edu/images/staff/laallen125.jpg "Laurie Allen) Laurie Allen, Assistant Director for Digital Scholarship
+![alt text](http://www.library.upenn.edu/images/staff/laallen125.jpg "Laurie Allen") Laurie Allen, Assistant Director for Digital Scholarship
 215-746-2662 | @laallen
 [laallen@upenn.edu](mailto:laallen@upenn.edu)
 
