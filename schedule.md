@@ -3,6 +3,8 @@
 Welcome!
 
 [Slack](https://pennds.slack.com)
+[Omeka Site](http://hsdemo.upenndigitalscholarship.org/omeka)
+[Omeka Dashboard](http://hsdemo.upenndigitalscholarship.org/omeka/admin)
 
 ## People
 ![alt text](https://avatars2.githubusercontent.com/u/1661248?v=3&s=96 "Sasha Renninger")
@@ -44,6 +46,8 @@ While the Penn Museum has one of the largest collections of archaeological and e
 * [The Great Congress](http://acsc.lib.udel.edu/great-congress)
 * [Gulag History](http://gulaghistory.org/)
 * [Cleveland Historical Society](http://clevelandhistorical.org/)
+
+#### [Omeka Tutorials](http://guides.library.upenn.edu/c.php?g=476192&p=3255999)
 
 #### Scalar Examples
 * [Performing Archive – Curtis and the Vanishing Race](http://scalar.usc.edu/works/performingarchive/index)
