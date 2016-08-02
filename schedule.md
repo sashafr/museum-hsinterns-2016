@@ -54,6 +54,7 @@ While the Penn Museum has one of the largest collections of archaeological and e
 #### [Omeka Tutorials](http://guides.library.upenn.edu/c.php?g=476192&p=3255999)
 
 #### Scalar Examples
+* [Sailing the British Empire](http://scalar.usc.edu/works/the-voyages-of-the-clarence/index)
 * [Performing Archive – Curtis and the Vanishing Race](http://scalar.usc.edu/works/performingarchive/index)
 * [Freedom's Ring](http://freedomsring.stanford.edu/?view=Speech)
 * [Knotted Line](http://knottedline.com/)
