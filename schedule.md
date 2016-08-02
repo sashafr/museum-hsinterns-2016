@@ -27,6 +27,12 @@ Laurie Allen, Assistant Director for Digital Scholarship
 
 [laallen@upenn.edu](mailto:laallen@upenn.edu)
 
+Katia Strieck, Head of Metadata Services
+
+215-746-6396
+
+[kstrieck@pobox.upenn.edu](mailto:kstrieck@pobox.upenn.edu)
+
 ## The Project
 While the Penn Museum has one of the largest collections of archaeological and ethnographic material in North America, only a small portion can ever be on display. The Penn Libraries would like to partner with the Penn Museum and Penn professors to bring the little known parts of the museum collection to the public eye through digital exhibits developed by students. You will be working with museum keepers, archivists, and librarians to create sample digital exhibits that show off the museum collection and encourage Penn faculty to try something new in their courses. The exhibits you create will be based around the topic of games in Native North and South America.
 
@@ -61,6 +67,13 @@ While the Penn Museum has one of the largest collections of archaeological and e
 * [The Eugenic Rubicon](http://scalar.usc.edu/works/the-eugenic-rubicon/index)
 
 #### [Scalar Tutorial](http://scalar.usc.edu/works/guide2/getting-started)
+
+### Wednesday, August 3 - Research Native America at the Penn Libraries
+
+* Introduction to researching in the Penn Libraries
+* Meet Katia Strieck, Head of Metadata Services for the Penn Libraries
+
+**Task**: Select 3 images or videos of Native American games from an online database
 
 
 
