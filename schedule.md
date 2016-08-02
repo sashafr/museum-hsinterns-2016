@@ -8,6 +8,8 @@ Welcome!
 
 [Omeka Dashboard](http://hsdemo.upenndigitalscholarship.org/omeka/admin)
 
+[Scalar](http://hsdemo.upenndigitalscholarship.org/scalar/)
+
 ## People
 ![alt text](https://avatars2.githubusercontent.com/u/1661248?v=3&s=96 "Sasha Renninger")
 
