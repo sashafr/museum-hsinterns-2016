@@ -42,9 +42,8 @@ While the Penn Museum has one of the largest collections of archaeological and e
 
 * Introduction to Digital Scholarship
 * Hands-On with Digital Exhibit Building Tools
-* Brainstorming "Story" Ideas for your Digital Exhibit
 
-**Task**: Identify some questions you have about Native American games
+**Task**: Sign up for Scalar, Omeka, and Slack
 
 #### Omeka Examples
 * [Gothic Past](http://gothicpast.com/)
@@ -75,5 +74,10 @@ While the Penn Museum has one of the largest collections of archaeological and e
 
 **Task**: Select 3 images or videos of Native American games from an online database
 
+### Thursday, August 4 - Digital Scholarship & Digital Exhibits Continued
 
+* Continue Scalar Tutorial
+* Brainstorming "Story" Ideas for your Digital Exhibit
+
+**Task**: Identify some questions you have about Native American games
 
