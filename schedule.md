@@ -1,4 +1,4 @@
-# Monday, August 1
+# Museum Summer 2016 High School Internship Program
 
 Welcome!
 
