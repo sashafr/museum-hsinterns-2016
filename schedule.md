@@ -3,7 +3,9 @@
 Welcome!
 
 [Slack](https://pennds.slack.com)
+
 [Omeka Site](http://hsdemo.upenndigitalscholarship.org/omeka)
+
 [Omeka Dashboard](http://hsdemo.upenndigitalscholarship.org/omeka/admin)
 
 ## People
