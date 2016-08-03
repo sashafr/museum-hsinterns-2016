@@ -76,15 +76,15 @@ While the Penn Museum has one of the largest collections of archaeological and e
 
 #### Online Databases of Native American Material
 * [ArtStor](http://library.artstor.org/library/)
-..* [Sample Search](http://library.artstor.org/library/#3|search|6|All20Collections3A20indian20games|Filtered20Search|||type3D3626kw3Dindian20games26geoIds3D26clsIds3D26collTypes3D26id3Dall26bDate3D26eDate3D26dExact3D26prGeoId3D26origKW3D)
+  * [Sample Search](http://library.artstor.org/library/#3|search|6|All20Collections3A20indian20games|Filtered20Search|||type3D3626kw3Dindian20games26geoIds3D26clsIds3D26collTypes3D26id3Dall26bDate3D26eDate3D26dExact3D26prGeoId3D26origKW3D)
 * [Indigenous Peoples of North America Database](http://gdc.galegroup.com/gdc/artemis/?u=upenn_main&p=INDP)
-..* [Sample Search](http://gdc.galegroup.com/gdc/artemis/NewspapersFullListPage/NewspapersFullListWindow?failOverType=&query=KE+games&prodId=INDP&windowstate=normal&contentModules=&display-query=KE+games&mode=view&displayGroupName=DVI-Newspapers&limiter=&u=upenn_main&currPage=1&displayGroups=&totalSearchResultCount=&source=fullList&p=INDP&action=e&catId=&activityType=BasicSearch&scanId=CSH)
+  * [Sample Search](http://gdc.galegroup.com/gdc/artemis/NewspapersFullListPage/NewspapersFullListWindow?failOverType=&query=KE+games&prodId=INDP&windowstate=normal&contentModules=&display-query=KE+games&mode=view&displayGroupName=DVI-Newspapers&limiter=&u=upenn_main&currPage=1&displayGroups=&totalSearchResultCount=&source=fullList&p=INDP&action=e&catId=&activityType=BasicSearch&scanId=CSH)
 * [National Museum of the American Indian Collections Search](http://www.nmai.si.edu/searchcollections/home.aspx)
-..* [Sample Search](http://www.nmai.si.edu/searchcollections/results.aspx?catids=0&objtypeid=Games%2c+Toys%2c+Gambling&src=1-4)
+  * [Sample Search](http://www.nmai.si.edu/searchcollections/results.aspx?catids=0&objtypeid=Games%2c+Toys%2c+Gambling&src=1-4)
 * [Smithsonian Research Information System](http://siris-archives.si.edu/ipac20/ipac.jsp?profile=allimg)
-..* [Sample Search](http://siris-archives.si.edu/ipac20/ipac.jsp?session=14702F1079UT4.31410&menu=search&aspect=subtab164&npp=50&ipp=20&spp=20&profile=allimg&ri=&term=indian+games&index=.GI&x=0&y=0&aspect=subtab164&term=&index=.AI&term=&index=.SI)
+  * [Sample Search](http://siris-archives.si.edu/ipac20/ipac.jsp?session=14702F1079UT4.31410&menu=search&aspect=subtab164&npp=50&ipp=20&spp=20&profile=allimg&ri=&term=indian+games&index=.GI&x=0&y=0&aspect=subtab164&term=&index=.AI&term=&index=.SI)
 * [Smithsonian Collections](http://collections.si.edu/search/index.htm)
-..* [Sample Search](http://collections.si.edu/search/results.htm?q=Games&fq=place:%22North+America%22)
+  * [Sample Search](http://collections.si.edu/search/results.htm?q=Games&fq=place:%22North+America%22)
 
 ### Thursday, August 4 - Digital Scholarship & Digital Exhibits Continued
 
