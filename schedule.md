@@ -74,10 +74,55 @@ While the Penn Museum has one of the largest collections of archaeological and e
 
 **Task**: Select 3 images or videos of Native American games from an online database
 
+#### Online Databases of Native American Material
+* [ArtStor](http://library.artstor.org/library/)
+** [Sample Search](http://library.artstor.org/library/#3|search|6|All20Collections3A20indian20games|Filtered20Search|||type3D3626kw3Dindian20games26geoIds3D26clsIds3D26collTypes3D26id3Dall26bDate3D26eDate3D26dExact3D26prGeoId3D26origKW3D)
+* [Indigenous Peoples of North America Database](http://gdc.galegroup.com/gdc/artemis/?u=upenn_main&p=INDP)
+** [Sample Search](http://gdc.galegroup.com/gdc/artemis/NewspapersFullListPage/NewspapersFullListWindow?failOverType=&query=KE+games&prodId=INDP&windowstate=normal&contentModules=&display-query=KE+games&mode=view&displayGroupName=DVI-Newspapers&limiter=&u=upenn_main&currPage=1&displayGroups=&totalSearchResultCount=&source=fullList&p=INDP&action=e&catId=&activityType=BasicSearch&scanId=CSH)
+* [National Museum of the American Indian Collections Search](http://www.nmai.si.edu/searchcollections/home.aspx)
+** [Sample Search](http://www.nmai.si.edu/searchcollections/results.aspx?catids=0&objtypeid=Games%2c+Toys%2c+Gambling&src=1-4)
+* [Smithsonian Research Information System](http://siris-archives.si.edu/ipac20/ipac.jsp?profile=allimg)
+** [Sample Search](http://siris-archives.si.edu/ipac20/ipac.jsp?session=14702F1079UT4.31410&menu=search&aspect=subtab164&npp=50&ipp=20&spp=20&profile=allimg&ri=&term=indian+games&index=.GI&x=0&y=0&aspect=subtab164&term=&index=.AI&term=&index=.SI)
+* [Smithsonian Collections](http://collections.si.edu/search/index.htm)
+** [Sample Search](http://collections.si.edu/search/results.htm?q=Games&fq=place:%22North+America%22)
+
 ### Thursday, August 4 - Digital Scholarship & Digital Exhibits Continued
 
-* Continue Scalar Tutorial
+* Continue researching Native American games in online databases
+* Visit the American galleries
 * Brainstorming "Story" Ideas for your Digital Exhibit
 
 **Task**: Identify some questions you have about Native American games
+
+#### Topic Ideas
+* Lacrosse
+* Baseball
+* Soccer
+* Archery
+* Hockey
+* Wild West Shows
+* Bull fighting
+* Cat's Cradles
+* Gambling & Games of Chance
+* Mayan Ball Game
+* Blanket Tossing
+* Tchung-Kee (chun-kee)
+* Zuni Stick Racing
+* Ancient or Modern Foot Races
+* Keeper of the Fire
+* Feather Darts
+* Hoop and Pole
+* Ring Toss
+* Pole Swinging
+* Toys
+
+#### Narrative Ideas
+* How was this game played?
+* (If the game came from outside of native America) How did this game come to be played by Native Americans?
+* Does this game have a basis in a tradition or story? Is it part of some ritual?
+* Who is allowed to play this game? When is it allowed to be played?
+* Is this game played in different ways, with different equipment, in different tribes?
+* If you would like to focus on an object or collection of objects, how was the object made? How was it used? How was it collected? How did it end up where it is today?
+* If you would like to focus on some specific archival material, when was the material recorded? Was it on an expedition? Why was someone recording this?
+* Compare a native game to a game or sport that you play or enjoy today
 
