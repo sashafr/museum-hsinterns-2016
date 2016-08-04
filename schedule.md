@@ -74,6 +74,8 @@ While the Penn Museum has one of the largest collections of archaeological and e
 
 **Task**: Select 3 images or videos of Native American games from an online database
 
+#### [Search the Penn Library Collection](http://www.library.upenn.edu/)
+
 #### Online Databases of Native American Material
 * [ArtStor](http://library.artstor.org/library/)
   * [Sample Search](http://library.artstor.org/library/#3|search|6|All20Collections3A20indian20games|Filtered20Search|||type3D3626kw3Dindian20games26geoIds3D26clsIds3D26collTypes3D26id3Dall26bDate3D26eDate3D26dExact3D26prGeoId3D26origKW3D)
