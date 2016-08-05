@@ -100,6 +100,10 @@ While the Penn Museum has one of the largest collections of archaeological and e
 
 **Task**: Identify some questions you have about Native American games
 
+#### Maya Ball Game Search Results
+* [in Smithsonian Collections](http://collections.si.edu/search/results.htm?q=maya+ball+game&tag.cstype=all)
+* [at the Walter's Art Gallery](http://art.thewalters.org/search/?type=search&query=maya+ball+game&exclude=&fields%5Btitle%5D=on&fields%5Bdescription%5D=on&fields%5Bprovenance%5D=on&fields%5Bcredit%5D=on&fields%5Bcreator_search_string%5D=on&fields%5Bmedium_search_string%5D=on&fields%5Bconservation_search_string%5D=on&fields%5Bnumber%5D=on&fields%5Bexhibition_search_string%5D=on&fields%5Binscriptions%5D=on&begin_date=10000&begin_date_period=bc&end_date=1000&end_date_period=ad)
+
 #### Cat's Cradle Search Results
 * [on ArtStor](http://library.artstor.org/library/#3|search|6|All20Collections3A20cat27s20cradle|Filtered20Search|||type3D3626kw3Dcat27s20cradle26geoIds3D26clsIds3D26collTypes3D26id3Dall26bDate3D26eDate3D26dExact3D26prGeoId3D26origKW3D)
 * [on Indigenous Peoples of North America Database](http://gdc.galegroup.com/gdc/artemis/searchResults/actionWin?failOverType=ketx&resetBreadCrumb=&query=TX+cat%27s+cradle&prodId=INDP&windowstate=normal&contentModules=&display-query=TX+cat%27s+cradle&mode=view&limiter=&u=upenn_main&commentary=&totalSearchResultCount=12&displayGroups=&p=INDP&action=e&catId=&activityType=BasicSearch&scanId=CSH)
