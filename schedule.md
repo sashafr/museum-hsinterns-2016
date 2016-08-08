@@ -146,3 +146,29 @@ While the Penn Museum has one of the largest collections of archaeological and e
 * If you would like to focus on some specific archival material, when was the material recorded? Was it on an expedition? Why was someone recording this?
 * Compare a native game to a game or sport that you play or enjoy today
 
+### Friday, August 5 - Research Native America in the Penn Museum Archives
+
+* Meet with Alex Pezzati, Head of Museum Archives, and Kate Pourshariati, Film Archivist
+* Learn how to conduct archival research
+
+**Task**: Select one film from the Internet Archive and 3-5 items from Archives depicting or describing Native American games
+
+### Monday, August 8 - Research Native America at the Penn Museum
+
+* Meet Bill Wierzbowski, Keeper of the American Section
+* Examine objects from Native American games in the Penn Museum collection
+* Look at tools for adding engaging visualizations to your exhibit
+
+**Task**: Select 5 objects from the Penn Museum collection that were used in Native American games
+
+#### Visualization Tools and Examples
+
+* [Timeline.js](https://timeline.knightlab.com/)
+  * [Haudenosaunee Creation Story Timeline](http://tbpdh.omeka.net/timelines)
+* [Storymap.js](https://storymap.knightlab.com/)
+* [Juxtapose.js](https://juxtapose.knightlab.com/)
+* [Soundcite.js](https://soundcite.knightlab.com/)
+* [Story Map by Esri](https://storymaps.arcgis.com/en/)
+  * [Trilobite Palaeomap](http://esribelux.maps.arcgis.com/apps/MapJournal/index.html?appid=621ca59bf5444d3d8d444638e61c1d1f)
+  * [Coastal Monitoring Map](http://storymap.systemsecology.org/)
+  * [Appalachia Historical Map](http://marshalluniv.maps.arcgis.com/apps/MapJournal/index.html?appid=bc38294006b242608fdbc65682ae74d4)
