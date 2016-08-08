@@ -10,29 +10,6 @@ Welcome!
 
 [Scalar](http://hsdemo.upenndigitalscholarship.org/scalar/)
 
-## People
-![alt text](https://avatars2.githubusercontent.com/u/1661248?v=3&s=96 "Sasha Renninger")
-
-Sasha Renninger, Digital Humanities Specialist
-
-215-898-9331 | @sashafr
-
-[sashafr@upenn.edu](mailto:sashafr@upenn.edu)
-
-![alt text](http://www.library.upenn.edu/images/staff/laallen125.jpg "Laurie Allen")
-
-Laurie Allen, Assistant Director for Digital Scholarship
-
-215-746-2662 | @laallen
-
-[laallen@upenn.edu](mailto:laallen@upenn.edu)
-
-Katia Strieck, Head of Metadata Services
-
-215-746-6396
-
-[kstrieck@pobox.upenn.edu](mailto:kstrieck@pobox.upenn.edu)
-
 ## The Project
 While the Penn Museum has one of the largest collections of archaeological and ethnographic material in North America, only a small portion can ever be on display. The Penn Libraries would like to partner with the Penn Museum and Penn professors to bring the little known parts of the museum collection to the public eye through digital exhibits developed by students. You will be working with museum keepers, archivists, and librarians to create sample digital exhibits that show off the museum collection and encourage Penn faculty to try something new in their courses. The exhibits you create will be based around the topic of games in Native North and South America.
 
@@ -153,6 +130,8 @@ While the Penn Museum has one of the largest collections of archaeological and e
 
 **Task**: Select one film from the Internet Archive and 3-5 items from Archives depicting or describing Native American games
 
+## Week 2
+
 ### Monday, August 8 - Research Native America at the Penn Museum
 
 * Meet Bill Wierzbowski, Keeper of the American Section
@@ -172,3 +151,85 @@ While the Penn Museum has one of the largest collections of archaeological and e
   * [Trilobite Palaeomap](http://esribelux.maps.arcgis.com/apps/MapJournal/index.html?appid=621ca59bf5444d3d8d444638e61c1d1f)
   * [Coastal Monitoring Map](http://storymap.systemsecology.org/)
   * [Appalachia Historical Map](http://marshalluniv.maps.arcgis.com/apps/MapJournal/index.html?appid=bc38294006b242608fdbc65682ae74d4)
+
+### Tuesday, August 9 – Wireframe a Digital Exhibit
+* Decide what “story” you would like to tell based on everything you saw last week
+*	Choose which platform you would like to use
+*	On pen and paper, wireframe your story
+
+**Task**: Outline the story you are trying to share with your audience and choose which platform you will use
+
+### Wednesday, August 10 – Develop a Digital Exhibit
+*	Using your outline and the materials you collected, begin building the first draft of your exhibit
+*	Focus mainly on creating content, ignoring style/design elements for now
+*	Create 3-5 topics for your exhibit
+
+**Task**: Complete at least 3 page drafts (if using Scalar or Omeka) or 3 elements drafts (if using StoryMap or Timeline)
+
+### Thursday, August 11 – Develop a Digital Exhibit Continued
+*	Build on the topic elements you created yesterday
+*	Draw connections between topics
+*	Add images, text, and videos to tell a story about your topics
+
+**Task**: Create a list of questions and ideas you would like to ask the Media Literacy Specialist
+
+### Friday, August 12 – Develop a Digital Exhibit - Media Literacy
+*	Meet Patty Guardiola, Assistant Head of the Fine Arts Library and Media Literacy Specialist
+*	Discuss ideas for enhancing your digital exhibit
+
+**Task**: Using what you learned from Patty, enhance at least one of your exhibit topics with an interesting piece of media
+
+## People
+![alt text](https://avatars2.githubusercontent.com/u/1661248?v=3&s=96 "Sasha Renninger")
+
+Sasha Renninger, Digital Humanities Specialist
+
+215-898-9331 | @sashafr
+
+[sashafr@upenn.edu](mailto:sashafr@upenn.edu)
+
+![alt text](http://www.library.upenn.edu/images/staff/laallen125.jpg "Laurie Allen")
+
+Laurie Allen, Assistant Director for Digital Scholarship
+
+215-746-2662 | @laallen
+
+[laallen@upenn.edu](mailto:laallen@upenn.edu)
+
+Katia Strieck, Head of Metadata Services
+
+215-746-6396
+
+[kstrieck@pobox.upenn.edu](mailto:kstrieck@pobox.upenn.edu)
+
+![alt text](http://www.library.upenn.edu/images/staff/pguar125.jpg "Patricia Guardiola")
+
+Patricia Guardiola, Assistant Head of the Fine Arts Library
+
+215-573-4637
+
+[pguar@upenn.edu](mailto:pguar@upenn.edu)
+
+![alt text](https://iweb.museum.upenn.edu/images/staff/Archives-Pezzati-Alex.JPG "Alex Pezzati")
+
+Alex Pezzati, Senior Archivist
+
+215-898-8304
+
+[apezzati@upenn.edu](mailto:apezzati@upenn.edu)
+
+![alt text](https://iweb.museum.upenn.edu/images/staff/Archives-Pourshariati-Kate.jpg "Kate Pourshariati")
+
+Kate Pourshariati, Film Archivist
+
+215-898-8304
+
+[katepour@upenn.edu](mailto:katepour@upenn.edu)
+
+![alt text](https://iweb.museum.upenn.edu/images/staff/American-Wierzbowski-Bill.JPG "Bill Wierzbowski")
+
+Bill Wierzbowski, American Section Keeper
+
+215-898-0936
+
+[wierzbow@upenn.edu](mailto:wierzbow@upenn.edu)
