@@ -14,6 +14,12 @@ Welcome!
 
 [Esri Story Map Dashboard](http://www.arcgis.com/home/content.html)
 
+Thursday Assigment: [Joey](https://github.com/upenndigitalscholarship/museum-hsinterns-2016/blob/master/thursday-joey.md)
+
+Friday Assigments: [Joey](https://github.com/upenndigitalscholarship/museum-hsinterns-2016/blob/master/friday-joey.md) | [Lila](https://github.com/upenndigitalscholarship/museum-hsinterns-2016/blob/master/friday-lila.md)
+
+Monday Assigments: [Joey](https://github.com/upenndigitalscholarship/museum-hsinterns-2016/blob/master/friday-joey.md) | [Lila](https://github.com/upenndigitalscholarship/museum-hsinterns-2016/blob/master/friday-lila.md)
+
 ## The Project
 While the Penn Museum has one of the largest collections of archaeological and ethnographic material in North America, only a small portion can ever be on display. The Penn Libraries would like to partner with the Penn Museum and Penn professors to bring the little known parts of the museum collection to the public eye through digital exhibits developed by students. You will be working with museum keepers, archivists, and librarians to create sample digital exhibits that show off the museum collection and encourage Penn faculty to try something new in their courses. The exhibits you create will be based around the topic of games in Native North and South America.
 
