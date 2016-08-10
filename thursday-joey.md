@@ -1,4 +1,4 @@
-# Thursday, August 11 - Museum Summer 2016 High School Internship Program
+# Thursday, August 11 - Joey - Museum Summer 2016 High School Internship Program
 
 [Slack](https://pennds.slack.com)
 
@@ -8,7 +8,7 @@
 
 [Penn Library Home Page](http://www.library.upenn.edu/)
 
-#### Tasks due by end of day - Joey
+#### Tasks due by end of day
 *	Using the Outline Topic Cards you created, add **at least** one Item for each of the Outline Topic Cards to the Omeka site
   * [Click here to log in to your Omeka Dashboard](http://hsdemo.upenndigitalscholarship.org/omeka/admin)
   * [A guide on adding Items to an Omeka site](https://omeka.org/codex/Managing_Items)
