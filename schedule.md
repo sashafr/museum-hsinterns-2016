@@ -194,7 +194,7 @@ While the Penn Museum has one of the largest collections of archaeological and e
 *	Using the Outline Topic Cards you created, add **at least** one Item for each of the Outline Topic Cards to the Omeka site
   * [Click here to log in to your Omeka Dashboard](http://hsdemo.upenndigitalscholarship.org/omeka/admin)
   * [A guide on adding Items to an Omeka site](https://omeka.org/codex/Managing_Items)
-  * If you have an Outline Topic Card with an Item that is a **Visualization from KnightLab ( [Juxtapose](https://juxtapose.knightlab.com/), [StoryMap](https://storymap.knightlab.com/), [Timeline](https://timeline.knightlab.com/), or [SoundCite](https://soundcite.knightlab.com/) )**, use the links here (and linked tutorials above) to create that item and make a note on your Outline Topic Card. **You do NOT need to create a StoryMap section yet .**
+  * If you have an Outline Topic Card with an Item that is a **Visualization from KnightLab ( [Juxtapose](https://juxtapose.knightlab.com/), [StoryMap](https://storymap.knightlab.com/), [Timeline](https://timeline.knightlab.com/), or [SoundCite](https://soundcite.knightlab.com/) )**, use the links here (and linked tutorials above) to create that item and make a note on your Outline Topic Card. **You do NOT need to create an Omeka Item for these visualizations .**
   * If you have an Outline Topic Card with an Item that is a **Video**, find the video online and make a note on your Outline Topic Card of where to find the video. **You do NOT need to create an Omeka Item for videos.**
 * Come up with **three** questions to ask Patty about how to add interesting media to your exhibit
 * Be prepared to show your exhibit to Patty
