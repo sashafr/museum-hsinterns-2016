@@ -12,6 +12,8 @@ Welcome!
 
 [Penn Library Home Page](http://www.library.upenn.edu/)
 
+[Esri Story Map Dashboard](http://www.arcgis.com/home/content.html)
+
 ## The Project
 While the Penn Museum has one of the largest collections of archaeological and ethnographic material in North America, only a small portion can ever be on display. The Penn Libraries would like to partner with the Penn Museum and Penn professors to bring the little known parts of the museum collection to the public eye through digital exhibits developed by students. You will be working with museum keepers, archivists, and librarians to create sample digital exhibits that show off the museum collection and encourage Penn faculty to try something new in their courses. The exhibits you create will be based around the topic of games in Native North and South America.
 
@@ -211,6 +213,14 @@ Patricia Guardiola, Assistant Head of the Fine Arts Library
 215-573-4637
 
 [pguar@upenn.edu](mailto:pguar@upenn.edu)
+
+![alt text](https://www.sas.upenn.edu/anthropology/sites/www.sas.upenn.edu.anthropology/files/imagecache/bio-picture/website.jpg "Shannon Renninger")
+
+Shannon Renninger, Undergraduate Coordinator, Department of Anthropology
+
+215-746-0418 | (cell) 724-984-1586 | @shannonrenn
+
+[srennin@sas.upenn.edu](mailto:srennin@sas.upenn.edu)
 
 ![alt text](https://iweb.museum.upenn.edu/images/staff/Archives-Pezzati-Alex.JPG "Alex Pezzati")
 
