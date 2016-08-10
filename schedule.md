@@ -222,8 +222,6 @@ While the Penn Museum has one of the largest collections of archaeological and e
   * If you need to scan an image, use the Z Scan in the library (don't forget to change the Settings to "Color" and 600dpi to get the best image)
   * Shannon has a flash drive you can use for the Z Scan, please return it to her at the end of the day
   * If you are having trouble finding content, look at the sample searches above
-  * If you have an Outline Topic Card with an Item that is a **Visualization from KnightLab ( [Juxtapose](https://juxtapose.knightlab.com/), [StoryMap](https://storymap.knightlab.com/), [Timeline](https://timeline.knightlab.com/), or [SoundCite](https://soundcite.knightlab.com/) )**, use the links here (and linked tutorials above) to create that item and make a note on your Outline Topic Card. **You do NOT need to create an Omeka Item for these visualizations.**
-  * If you have an Outline Topic Card with an Item that is a **Video**, find the video online and make a note on your Outline Topic Card of where to find the video. **You do NOT need to create an Omeka Item for videos.**
 
 ### Friday, August 12 – Develop a Digital Exhibit - Media Literacy
 *	Meet Patty Guardiola, Assistant Head of the Fine Arts Library and Media Literacy Specialist
