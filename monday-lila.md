@@ -26,8 +26,8 @@
     * Click on file name under the File Metadata menu on the right hand side of the screen
     * Click on the "Original", "Fullsize", or "Thumbnail" (for the size you want) in the "Direct Links" menu on the right hand side of the screen
     * This opens the image. Copy this url from the address bar to embed the image in your StoryMap
-* Be prepared to show your exhibit Outline Topic Cards to Patty and discuss possible media ideas
-* Using what you learned from Patty, enhance at least one of your exhibit topics with an interesting piece of media
+* Be prepared to show your exhibit to Laurie and discuss possible enhancements
+* Using what you learned from Laurie, enhance at least one of your exhibit topics with an interesting piece of media
 
 #### Online Databases of Native American Material
 * [ArtStor](http://library.artstor.org/library/)
