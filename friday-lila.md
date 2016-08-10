@@ -2,11 +2,12 @@
 
 [Slack](https://pennds.slack.com)
 
-[Omeka Site](http://hsdemo.upenndigitalscholarship.org/omeka)
-
 [Omeka Dashboard](http://hsdemo.upenndigitalscholarship.org/omeka/admin)
 
 [Penn Library Home Page](http://www.library.upenn.edu/)
+
+[Esri Story Map Dashboard](http://www.arcgis.com/home/content.html)
+
 
 ### Schedule
 *	At 9:30am, meet Patty Guardiola, Assistant Head of the Fine Arts Library and Media Literacy Specialist
