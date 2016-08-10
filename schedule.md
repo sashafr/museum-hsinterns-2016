@@ -148,9 +148,27 @@ While the Penn Museum has one of the largest collections of archaeological and e
 
 * [Timeline.js](https://timeline.knightlab.com/)
   * [Haudenosaunee Creation Story Timeline](http://tbpdh.omeka.net/timelines)
+  * [Video Tutorial on how to make a Timeline](https://vimeo.com/143407878)
+  * [Click here to get started making a Timeline](https://timeline.knightlab.com/#make)
+  * To make a Timeline, follow the instructions at the link above. Click on the "Get the Spreadsheet Template" button to open the template and then save it to your own Google Drive by clicking the "Use this template" button. To edit the contents of the timeline, follow the instructions in the link.
 * [Storymap.js](https://storymap.knightlab.com/)
+  * To create a StoryMap, follow the link above and click on the "Create a StoryMap Now" button. You will need to sign in to Google to begin creating the StoryMap
 * [Juxtapose.js](https://juxtapose.knightlab.com/)
+  * To create a Juxtapose, upload the two images you would like to use as Items in Omeka. After saving the Items:
+    * Open the item for viewing on the Admin side
+    * Click on file name under the File Metadata menu on the right hand side of the screen
+    * Click on the "Original", "Fullsize", or "Thumbnail" (for the size you want) in the "Direct Links" menu on the right hand side of the screen
+    * This opens the image. Copy this url from the address bar to use when creating the Juxtapose
+  * After you have uploaded both images, go to [this link](https://juxtapose.knightlab.com/#create-new) and paste the urls for the images in the Left and Right Images url inputs. Be sure to add the proper credit
+  * Update the preview to make certain it looks correct
+  * Click the publish button, then copy the iframe it generates to your Google Doc to save for embedding in your exhibit
 * [Soundcite.js](https://soundcite.knightlab.com/)
+* To create a SoundCite, upload the original audio file you would like to use as an Item in Omeka. After saving the Item:
+    * Open the item for viewing on the Admin side
+    * Click on file name under the File Metadata menu on the right hand side of the screen
+    * Click on the item in the "Direct Links" menu on the right hand side of the screen
+    * This opens the audio file. Copy this url from the address bar to use when creating the SoundCite
+  * [Follow these instructions to create your clip](https://soundcite.knightlab.com/#create-new)
 * [Story Map by Esri](https://storymaps.arcgis.com/en/)
   * [Trilobite Palaeomap](http://esribelux.maps.arcgis.com/apps/MapJournal/index.html?appid=621ca59bf5444d3d8d444638e61c1d1f)
   * [Coastal Monitoring Map](http://storymap.systemsecology.org/)
@@ -170,18 +188,57 @@ While the Penn Museum has one of the largest collections of archaeological and e
 
 **Task**: Complete at least 3 page drafts (if using Scalar or Omeka) or 3 elements drafts (if using StoryMap or Timeline)
 
-### Thursday, August 11 – Develop a Digital Exhibit Continued
-*	Build on the topic elements you created yesterday
-*	Draw connections between topics
-*	Add images, text, and videos to tell a story about your topics
+### Thursday, August 11 to Monday, August 15 – Develop a Digital Exhibit Continued
 
-**Task**: Create a list of questions and ideas you would like to ask the Media Literacy Specialist
+#### Tasks due on Friday - Joey
+*	Using the Outline Topic Cards you created, add **at least** one Item for each of the Outline Topic Cards to the Omeka site
+  * [Click here to log in to your Omeka Dashboard](http://hsdemo.upenndigitalscholarship.org/omeka/admin)
+  * [A guide on adding Items to an Omeka site](https://omeka.org/codex/Managing_Items)
+  * If you have an Outline Topic Card with an Item that is a **Visualization from KnightLab ( [Juxtapose](https://juxtapose.knightlab.com/), [StoryMap](https://storymap.knightlab.com/), [Timeline](https://timeline.knightlab.com/), or [SoundCite](https://soundcite.knightlab.com/) )**, use the links here (and linked tutorials above) to create that item and make a note on your Outline Topic Card. **You do NOT need to create a StoryMap section yet .**
+  * If you have an Outline Topic Card with an Item that is a **Video**, find the video online and make a note on your Outline Topic Card of where to find the video. **You do NOT need to create an Omeka Item for videos.**
+* Come up with **three** questions to ask Patty about how to add interesting media to your exhibit
+* Be prepared to show your exhibit to Patty
+
+#### Tasks due on Tuesday - Joey
+*	Using the Items you created on Thursday and Friday, create on Exhibit page for each Outline Topic Card, including the relevant items
+*	[Exhibit Builder Guide](http://miriamposner.com/blog/creating-an-omeka-exhibit/)
+*	To embed a video or visualization, add a Text block to your exhibit page, click on the HTML button, and paste the iframe or embed code into the HTML window
+
+#### Tasks due by Tuesday - Lila
+*	Using the Outline Topic Cards you created, create one Cascade section for each card, with **at least** a header and a media item or text
+  * [Click here to access your Esri Story Map Dashboard](http://www.arcgis.com/home/content.html)
+  * Click on the name of your exhibit in the Content menu, then click on "View Application", then click on "Edit"
+  * [A guide to creating a Cascade Story Map](https://storymaps.arcgis.com/en/app-list/cascade/tutorial/)
+  * If you have an Outline Topic Card with an Item that is a **Visualization from KnightLab ( [Juxtapose](https://juxtapose.knightlab.com/), [StoryMap](https://storymap.knightlab.com/), [Timeline](https://timeline.knightlab.com/), or [SoundCite](https://soundcite.knightlab.com/) )**, use the links here (and linked tutorials above) to create that item and make a note on your Outline Topic Card. To add it to your StoryMap, click the button to add a Media item, select the "Link to Content" tab, and paste in the iframe generated by following the instructions for each visualization above
+  * If you have an Outline Topic Card with an Item that is a **Video**, find the video online and make a note on your Outline Topic Card of where to find the video. To add it to your StoryMap, click the button to add a Media item, select the "Link to Content" tab, and paste in the embed code for the video
+  * If you have an Outline Topic Card with an Item that is an **Image** upload the image you would like to use as an Item in Omeka. After saving the Items:
+    * Open the item for viewing on the Admin side
+    * Click on file name under the File Metadata menu on the right hand side of the screen
+    * Click on the "Original", "Fullsize", or "Thumbnail" (for the size you want) in the "Direct Links" menu on the right hand side of the screen
+    * This opens the image. Copy this url from the address bar to embed the image in your StoryMap
+* Be prepared to show your exhibit Outline Topic Cards to Patty and discuss possible media ideas
+
+#### General Advice for Both of You
+  * If you need to scan an image, use the Z Scan in the library (don't forget to change the Settings to "Color" and 600dpi to get the best image)
+  * Shannon has a flash drive you can use for the Z Scan, please return it to her at the end of the day
+  * If you are having trouble finding content, look at the sample searches above
+  * If you have an Outline Topic Card with an Item that is a **Visualization from KnightLab ( [Juxtapose](https://juxtapose.knightlab.com/), [StoryMap](https://storymap.knightlab.com/), [Timeline](https://timeline.knightlab.com/), or [SoundCite](https://soundcite.knightlab.com/) )**, use the links here (and linked tutorials above) to create that item and make a note on your Outline Topic Card. **You do NOT need to create an Omeka Item for these visualizations.**
+  * If you have an Outline Topic Card with an Item that is a **Video**, find the video online and make a note on your Outline Topic Card of where to find the video. **You do NOT need to create an Omeka Item for videos.**
 
 ### Friday, August 12 – Develop a Digital Exhibit - Media Literacy
 *	Meet Patty Guardiola, Assistant Head of the Fine Arts Library and Media Literacy Specialist
 *	Discuss ideas for enhancing your digital exhibit
 
 **Task**: Using what you learned from Patty, enhance at least one of your exhibit topics with an interesting piece of media
+
+## Week 3
+
+### Monday, August 15 – Develop a Digital Exhibit - Creating Digital Content on the Web
+*	Meet Laurie Allen, Assistant Director for Digital Scholarship
+*	Learn about writing for the web, creating digital content, and how the internet works!
+*	Show Laurie your exhibits and discuss ideas for enhancing your exhibit
+
+**Task**: Using what you learned from Laurie, enhance at least one of your exhibit topics
 
 ## People
 ![alt text](https://avatars2.githubusercontent.com/u/1661248?v=3&s=96 "Sasha Renninger")
