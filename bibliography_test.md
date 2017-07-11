@@ -4,5 +4,7 @@ Robinson, Andrew. "Cuneiform," in *The Story of Writing: Alphabets, Hieroglyphs,
 
 *Note: Please use the citation style guide on this page to format your entries: [Chicago Manual of Style Online](http://www.chicagomanualofstyle.org/tools_citationguide.html)*
 
+**Whenever you make an update, don't forget to **
+
 
 > Written with [StackEdit](https://stackedit.io/).
