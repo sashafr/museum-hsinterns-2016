@@ -171,5 +171,3 @@ Alex Pezzati, Senior Archivist
 215-898-8304
 
 [apezzati@upenn.edu](mailto:apezzati@upenn.edu)
-
-![alt text](https://iweb.museum.upenn.edu/images/staff/Archives-Pourshariati-Kate.jpg "Kate Pourshariati")
