@@ -19,9 +19,45 @@ While the Penn Museum has one of the largest collections of archaeological and e
 
 * [Creating Museum Content for the Web](resources/Creating_Museum_Content_for_the_Web_-_Museum_Internship.pdf)
   * [Digital Research Guide](http://guides.library.upenn.edu/digital-research-methods/tools)
-* Hands-On with Digital Exhibit Building Tools
 
 **Task**: Sign up for Scalar, Omeka, and Slack
+
+### Wednesday, July 12 - Preparing for Background Research
+
+* Introduction to Primary and Secondary Sources
+  * Meet Deb Stewart, Head of the Museum Library
+* Introduction to Image Searching and Citation
+  * Meet Patty Guardiola, Assistant Head of the Fine Arts Library
+* Read Core Texts on Cuneiform Tablets
+
+**Task**: Read the two excerpts listed below and take notes in preparation for the [Exhibit Brainstorming](resources/exhibit_brainstorming.pdf) activity
+
+#### Reading
+* Robinson, Andrew. "Cuneiform," in *The Story of Writing: Alphabets, Hieroglyphs, & Pictograms,* 70-91. London: Thames & Hudson, 2007. 
+
+### Thursday, July 13 - Objects & Archives
+
+* Visit the Current Near Eastern Galleries
+* Hands on with the Tablet Room Sample Collection
+* Introduction to Researching in the Penn Libraries
+
+**Task**: 
+
+### Friday, July 14 - Brainstorming & Background Research
+
+* 
+
+**Task**: 
+
+---
+
+## Week 2
+
+### Monday, July 17 - 
+
+* Hands-On with Digital Exhibit Building Tools
+
+**Task**: 
 
 #### Omeka Examples
 * [Gothic Past](http://gothicpast.com/)
@@ -46,40 +82,6 @@ While the Penn Museum has one of the largest collections of archaeological and e
 * [The Eugenic Rubicon](http://scalar.usc.edu/works/the-eugenic-rubicon/index)
 
 #### [Scalar Tutorial](http://scalar.usc.edu/works/guide2/getting-started)
-
-### Wednesday, July 12 - Preparing for Background Research
-
-* Introduction to researching in the Penn Libraries
-* Introduction to Primary and Secondary Sources
-* Introduction to Image Searching and Citation
-* Meet Deb Stewart, Head of the Museum Library
-* Meet Patty Guardiola, Assistant Head of the Fine Arts Library
-
-**Task**: 
-
-### Thursday, July 13 - Objects & Archives
-
-* Visit the Current Near Eastern Galleries
-* Hands on with the Tablet Room Sample Collection
-* Introduction to the Archives
-
-**Task**: 
-
-### Friday, July 14 - Brainstorming & Background Research
-
-* 
-
-**Task**: 
-
----
-
-## Week 2
-
-### Monday, July 17 - 
-
-* 
-
-**Task**: 
 
 ### Tuesday, July 18 – 
 
