@@ -1,47 +1,38 @@
-# Museum Summer 2016 High School Internship Program
+# Museum Summer 2017 High School Internship Program
 
 Welcome!
 
 [Slack](https://pennds.slack.com)
 
-[Omeka Site](http://hsdemo.upenndigitalscholarship.org/omeka)
-
-[Omeka Dashboard](http://hsdemo.upenndigitalscholarship.org/omeka/admin)
-
-[Scalar](http://hsdemo.upenndigitalscholarship.org/scalar/)
+[Omeka Site](http://hsdemo.upenndigitalscholarship.org/omeka/) | [Omeka Dashboard](http://hsdemo.upenndigitalscholarship.org/omeka/admin) | [Scalar](http://hsdemo.upenndigitalscholarship.org/scalar/)
 
 [Penn Library Home Page](http://www.library.upenn.edu/)
 
-[Esri Story Map Dashboard](http://www.arcgis.com/home/content.html)
-
-Thursday Assigment: [Joey](https://github.com/upenndigitalscholarship/museum-hsinterns-2016/blob/master/thursday-joey.md)
-
-Friday Assigments: [Joey](https://github.com/upenndigitalscholarship/museum-hsinterns-2016/blob/master/friday-joey.md) | [Lila](https://github.com/upenndigitalscholarship/museum-hsinterns-2016/blob/master/friday-lila.md)
-
-Monday Assigments: [Joey](https://github.com/upenndigitalscholarship/museum-hsinterns-2016/blob/master/monday-joey.md) | [Lila](https://github.com/upenndigitalscholarship/museum-hsinterns-2016/blob/master/monday-lila.md)
-
 ## The Project
-While the Penn Museum has one of the largest collections of archaeological and ethnographic material in North America, only a small portion can ever be on display. The Penn Libraries would like to partner with the Penn Museum and Penn professors to bring the little known parts of the museum collection to the public eye through digital exhibits developed by students. You will be working with museum keepers, archivists, and librarians to create sample digital exhibits that show off the museum collection and encourage Penn faculty to try something new in their courses. The exhibits you create will be based around the topic of games in Native North and South America.
+While the Penn Museum has one of the largest collections of archaeological and ethnographic material in North America, only a small portion can ever be on display. The Penn Libraries would like to partner with the Penn Museum and Penn professors to bring the little known parts of the museum collection to the public eye through digital exhibits developed by students. You will be working with museum keepers, archivists, and librarians to create sample digital exhibits that show off the museum collection and encourage Penn faculty to try something new in their courses. The exhibits you create will be based around the topic of ancient Sumerian tablets and writing.
 
 ## Week 1
 
-### Tuesday, August 2 - Digital Scholarship & Digital Exhibits
+### Tuesday, July 11 - Digital Scholarship & Digital Exhibits
 
-* Introduction to Digital Scholarship
+* [Creating Museum Content for the Web](resources/Creating_Museum_Content_for_the_Web_-_Museum_Internship.pdf)
+  * [Digital Research Guide](http://guides.library.upenn.edu/digital-research-methods/tools)
 * Hands-On with Digital Exhibit Building Tools
 
 **Task**: Sign up for Scalar, Omeka, and Slack
 
 #### Omeka Examples
 * [Gothic Past](http://gothicpast.com/)
-* [Battersea Arts Centre Digital Archive](http://www.bacarchive.org.uk/)
-* [Digital Humanities Projects by Dr. Powell](http://tbpdh.omeka.net/)
-* [The Preface Project](http://prefaceproject.omeka.net/)
-* [Here and Over There] (http://nelc133.omeka.net/)
+* [Digital Humanities Projects by Dr. Powell](http://pennds.org/tbpdh/)
+* [The Preface Project](http://pennds.org/prefaceproject/)
+* [Here and Over There](http://pennds.org/nelc133/)
 * [Wearing Gay History](http://wearinggayhistory.com/)
 * [The Great Congress](http://acsc.lib.udel.edu/great-congress)
 * [Gulag History](http://gulaghistory.org/)
 * [Cleveland Historical Society](http://clevelandhistorical.org/)
+* [China in the European Imagination](http://pennds.org/chinamania/)
+* [Art at Penn](http://pennds.org/arth503640/)
+* [Who was Alfred Dreyfus and Why Should We Care?](http://pennds.org/whowasalfreddreyfus/)
 
 #### [Omeka Tutorials](http://guides.library.upenn.edu/c.php?g=476192&p=3255999)
 
