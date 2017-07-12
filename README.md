@@ -26,8 +26,9 @@ While the Penn Museum has one of the largest collections of archaeological and e
 
 * Introduction to Primary and Secondary Sources
   * Meet Deb Stewart, Head of the Museum Library
-* Introduction to Image Searching and Citation
+* [Introduction to Image Searching and Citation](tinyurl.com/museum12)
   * Meet Patty Guardiola, Assistant Head of the Fine Arts Library
+  * [Guide to Finding Images](http://guides.library.upenn.edu/images)
 * Read Core Texts on Cuneiform Tablets
 
 **Task**: Read the two excerpts listed below and take notes in preparation for the [Exhibit Brainstorming](resources/exhibit_brainstorming.pdf) activity
@@ -159,6 +160,8 @@ Laurie Allen, Assistant Director for Digital Scholarship
 215-746-2662 | @laallen
 
 [laallen@upenn.edu](mailto:laallen@upenn.edu)
+
+![alt text](http://www.library.upenn.edu/images/staff/pguar125.jpg "Patty Guardiola")
 
 Patricia Guardiola, Assistant Head of the Fine Arts Library
 
