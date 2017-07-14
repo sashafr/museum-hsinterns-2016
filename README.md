@@ -56,7 +56,7 @@ While the Penn Museum has one of the largest collections of archaeological and e
 3. Using [Franklin](http://www.library.upenn.edu/) and [Google Scholar](https://scholar.google.com/), please find at least one primary source and three secondary sources on a topic related to cuneiform tablets. Please list all sources in [our biblography](https://drive.google.com/file/d/0BynPJq-lXhGoMnpQb0FFOW9aZXM/view?usp=sharing).
 
 **Readings**:
-* Roberts, J. M. "Ancient Mesopotamia." In The New Penguin History of the World, 49-65. London: Penguin Books, 2007.
+* Roberts, J. M. "Ancient Mesopotamia." In *The New Penguin History of the World*, 49-65. London: Penguin Books, 2007.
 
 ---
 
