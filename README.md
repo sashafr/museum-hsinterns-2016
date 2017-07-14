@@ -29,26 +29,34 @@ While the Penn Museum has one of the largest collections of archaeological and e
 * [Introduction to Image Searching and Citation](tinyurl.com/museum12)
   * Meet Patty Guardiola, Assistant Head of the Fine Arts Library
   * [Guide to Finding Images](http://guides.library.upenn.edu/images)
-* Read Core Texts on Cuneiform Tablets
+* Read Core Text on Cuneiform Tablets
 
-**Task**: Read the two excerpts listed below and take notes in preparation for the [Exhibit Brainstorming](resources/exhibit_brainstorming.pdf) activity
+**Task**: Read the excerpt listed below and take notes in preparation for the [Exhibit Brainstorming](resources/exhibit_brainstorming.pdf) activity
 
-#### Reading
 * Robinson, Andrew. "Cuneiform," in *The Story of Writing: Alphabets, Hieroglyphs, & Pictograms,* 70-91. London: Thames & Hudson, 2007. 
 
-### Thursday, July 13 - Objects & Archives
+### Thursday, July 13 - Tablets
 
-* Visit the Current Near Eastern Galleries
 * Hands on with the Tablet Room Sample Collection
+  * Meet Phil Jones, Associate Curator, Babylonian Section
 * Introduction to Researching in the Penn Libraries
 
-**Task**: 
+**Task**: Come up with two questions you would like to ask Phil Jones (our "client")
 
-### Friday, July 14 - Brainstorming & Background Research
+### Friday, July 14 - Gallery & Background Research
 
-* 
+* Visit the Canaan & Israel and Cultures in the Crossfire Galleries
+* Read Core Text on the History of Mesopotamia
+* Background Research
 
-**Task**: 
+**Tasks**: Please complete at least two of the three tasks listed below:
+
+1. Visit the Galleries and complete the [Exhibit Analysis Worksheet](resources/exhibit_analysis.pdf)
+2. Read the excerpt listed below and take notes in preparation for the [Exhibit Brainstorming](resources/exhibit_brainstorming.pdf) activity
+3. Using [Franklin](http://www.library.upenn.edu/) and [Google Scholar](https://scholar.google.com/), please find at least one primary source and three secondary sources on a topic related to cuneiform tablets. Please list all sources in [our biblography](https://drive.google.com/file/d/0BynPJq-lXhGoMnpQb0FFOW9aZXM/view?usp=sharing).
+
+**Readings**:
+* Roberts, J. M. "Ancient Mesopotamia." In The New Penguin History of the World, 49-65. London: Penguin Books, 2007.
 
 ---
 
@@ -161,6 +169,14 @@ Laurie Allen, Assistant Director for Digital Scholarship
 
 [laallen@upenn.edu](mailto:laallen@upenn.edu)
 
+![alt text](http://www.library.upenn.edu/images/staff/browndeb125.jpg "Deb Stewart")
+
+Deb Stewart, Head of the Museum Library
+
+215-848-4021
+
+[browndeb@upenn.edu](mailto:browndeb@upenn.edu)
+
 ![alt text](http://www.library.upenn.edu/images/staff/pguar125.jpg "Patty Guardiola")
 
 Patricia Guardiola, Assistant Head of the Fine Arts Library
@@ -168,6 +184,14 @@ Patricia Guardiola, Assistant Head of the Fine Arts Library
 215-573-4637
 
 [pguar@upenn.edu](mailto:pguar@upenn.edu)
+
+![alt text](https://iweb.museum.upenn.edu/images/staff/Babylonian-Jones-Phil.jpg "Phil Jones")
+
+Phil Jones, Associate Curator, Babylonian Section
+
+215-898-4047
+
+[phjones@sas.upenn.edu](mailto:phjones@sas.upenn.edu)
 
 ![alt text](https://iweb.museum.upenn.edu/images/staff/Archives-Pezzati-Alex.JPG "Alex Pezzati")
 
