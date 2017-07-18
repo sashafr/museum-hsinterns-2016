@@ -62,11 +62,12 @@ While the Penn Museum has one of the largest collections of archaeological and e
 
 ## Week 2
 
-### Monday, July 17 - 
+### Monday, July 17 - Research and Tool Selection
 
+* Friday Wrap-Up
 * Hands-On with Digital Exhibit Building Tools
 
-**Task**: 
+**Task**: Complete any remaining tasks from Friday
 
 #### Omeka Examples
 * [Gothic Past](http://gothicpast.com/)
@@ -92,11 +93,19 @@ While the Penn Museum has one of the largest collections of archaeological and e
 
 #### [Scalar Tutorial](http://scalar.usc.edu/works/guide2/getting-started)
 
-### Tuesday, July 18 – 
+### Tuesday, July 18 – Careers with the Library
 
-* 
+* [Exhibit Brainstorming](resources/exhibit_brainstorming.pdf)
+* Introduction to Text Analysis
+  * Meet Scott Enderle, Digital Humanities Specialist
+* [Data Refuge](https://www.datarefuge.org/)
+  * Meet Margaret Janz, Data Curation Librarian
+* How to Spot Fake News
+  * Meet Sam Kirk, Teaching Specialist
+* [Monument Lab](http://monumentlab.muralarts.org/)
+  * Meet Laurie Allen, Assistant Director of Digital Scholarship
 
-**Task**: 
+**Task**: Complete the [Exhibit Brainstorming](resources/exhibit_brainstorming.pdf) exercise. If you complete this, please work on locating additional sources from Franklin and Google Scholar.
 
 ### Wednesday, July 19 – 
 
