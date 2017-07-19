@@ -62,12 +62,12 @@ While the Penn Museum has one of the largest collections of archaeological and e
 
 ## Week 2
 
-### Monday, July 17 - Research and Tool Selection
+### Monday, July 17 - Omeka
 
 * Friday Wrap-Up
-* Hands-On with Digital Exhibit Building Tools
+* Hands-On with Omeka
 
-**Task**: Complete any remaining tasks from Friday
+**Task**: Complete any remaining tasks from Friday; Look over the Omeka Examples for ideas
 
 #### Omeka Examples
 * [Gothic Past](http://gothicpast.com/)
@@ -83,6 +83,22 @@ While the Penn Museum has one of the largest collections of archaeological and e
 * [Who was Alfred Dreyfus and Why Should We Care?](http://pennds.org/whowasalfreddreyfus/)
 
 #### [Omeka Tutorials](http://guides.library.upenn.edu/c.php?g=476192&p=3255999)
+
+### Tuesday, July 18 – Careers with the Library
+
+* [Star Wars Fan Fiction Project](http://www.lagado.name/parallel/6gram/)
+  * Meet Scott Enderle, Digital Humanities Specialist
+* [Data Refuge](https://www.datarefuge.org/)
+  * Meet Margaret Janz, Scholarly Communication and Data Curation Librarian
+* Information Literacy, Truth in Research, & Fake News
+  * Meet Sam Kirk, Reference and Information Literacy Librarian
+* [Monument Lab](http://monumentlab.muralarts.org/)
+  * Meet Laurie Allen, Assistant Director of Digital Scholarship
+
+### Wednesday, July 19 – Scalar and Embeddables
+
+* Hands-On with Scalar
+* Check out some embeddable options
 
 #### Scalar Examples
 * [Sailing the British Empire](http://scalar.usc.edu/works/the-voyages-of-the-clarence/index)
@@ -123,34 +139,23 @@ While the Penn Museum has one of the largest collections of archaeological and e
   * [Coastal Monitoring Map](http://storymap.systemsecology.org/)
   * [Appalachia Historical Map](http://marshalluniv.maps.arcgis.com/apps/MapJournal/index.html?appid=bc38294006b242608fdbc65682ae74d4)
 
-
-### Tuesday, July 18 – Careers with the Library
-
-* [Exhibit Brainstorming](resources/exhibit_brainstorming.pdf)
-* Introduction to Text Analysis
-  * Meet Scott Enderle, Digital Humanities Specialist
-* [Data Refuge](https://www.datarefuge.org/)
-  * Meet Margaret Janz, Data Curation Librarian
-* How to Spot Fake News
-  * Meet Sam Kirk, Teaching Specialist
-* [Monument Lab](http://monumentlab.muralarts.org/)
-  * Meet Laurie Allen, Assistant Director of Digital Scholarship
-
 **Task**: Complete the [Exhibit Brainstorming](resources/exhibit_brainstorming.pdf) exercise. If you complete this, please work on locating additional sources from Franklin and Google Scholar.
 
-### Wednesday, July 19 – 
+  
+### Thursday, July 20 - Storyboarding
 
-* 
+* Decide what “story” you would like to tell based on everything you saw last week
+* Go over your Exhibit Brainstorming ideas
+* Decide on Your Goals and Personas
+* Storyboard your ideas
 
-**Task**: 
+**Task**:
 
-### Thursday, July 20 - 
+1. Compose a goal (or goals) for your website
+2. Describe your "Personas" (you should have at least three specific personas)
+3. Come up with at least 6 3x5 cards with story board ideas
 
-* 
-
-**Task**: 
-
-### Friday, July 21 – 
+### Friday, July 21 – Wireframing and Tool Selection
 
 * 
 
