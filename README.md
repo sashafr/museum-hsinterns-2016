@@ -93,6 +93,37 @@ While the Penn Museum has one of the largest collections of archaeological and e
 
 #### [Scalar Tutorial](http://scalar.usc.edu/works/guide2/getting-started)
 
+#### Visualization Tools and Examples
+
+* [Timeline.js](https://timeline.knightlab.com/)
+  * [Haudenosaunee Creation Story Timeline](http://tbpdh.omeka.net/timelines)
+  * [Video Tutorial on how to make a Timeline](https://vimeo.com/143407878)
+  * [Click here to get started making a Timeline](https://timeline.knightlab.com/#make)
+  * To make a Timeline, follow the instructions at the link above. Click on the "Get the Spreadsheet Template" button to open the template and then save it to your own Google Drive by clicking the "Use this template" button. To edit the contents of the timeline, follow the instructions in the link.
+* [Storymap.js](https://storymap.knightlab.com/)
+  * To create a StoryMap, follow the link above and click on the "Create a StoryMap Now" button. You will need to sign in to Google to begin creating the StoryMap
+* [Juxtapose.js](https://juxtapose.knightlab.com/)
+  * To create a Juxtapose, upload the two images you would like to use as Items in Omeka. After saving the Items:
+    * Open the item for viewing on the Admin side
+    * Click on file name under the File Metadata menu on the right hand side of the screen
+    * Click on the "Original", "Fullsize", or "Thumbnail" (for the size you want) in the "Direct Links" menu on the right hand side of the screen
+    * This opens the image. Copy this url from the address bar to use when creating the Juxtapose
+  * After you have uploaded both images, go to [this link](https://juxtapose.knightlab.com/#create-new) and paste the urls for the images in the Left and Right Images url inputs. Be sure to add the proper credit
+  * Update the preview to make certain it looks correct
+  * Click the publish button, then copy the iframe it generates to your Google Doc to save for embedding in your exhibit
+* [Soundcite.js](https://soundcite.knightlab.com/)
+* To create a SoundCite, upload the original audio file you would like to use as an Item in Omeka. After saving the Item:
+    * Open the item for viewing on the Admin side
+    * Click on file name under the File Metadata menu on the right hand side of the screen
+    * Click on the item in the "Direct Links" menu on the right hand side of the screen
+    * This opens the audio file. Copy this url from the address bar to use when creating the SoundCite
+  * [Follow these instructions to create your clip](https://soundcite.knightlab.com/#create-new)
+* [Story Map by Esri](https://storymaps.arcgis.com/en/)
+  * [Trilobite Palaeomap](http://esribelux.maps.arcgis.com/apps/MapJournal/index.html?appid=621ca59bf5444d3d8d444638e61c1d1f)
+  * [Coastal Monitoring Map](http://storymap.systemsecology.org/)
+  * [Appalachia Historical Map](http://marshalluniv.maps.arcgis.com/apps/MapJournal/index.html?appid=bc38294006b242608fdbc65682ae74d4)
+
+
 ### Tuesday, July 18 – Careers with the Library
 
 * [Exhibit Brainstorming](resources/exhibit_brainstorming.pdf)
