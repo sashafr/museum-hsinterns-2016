@@ -142,6 +142,7 @@ While the Penn Museum has one of the largest collections of archaeological and e
   * [Trilobite Palaeomap](http://esribelux.maps.arcgis.com/apps/MapJournal/index.html?appid=621ca59bf5444d3d8d444638e61c1d1f)
   * [Coastal Monitoring Map](http://storymap.systemsecology.org/)
   * [Appalachia Historical Map](http://marshalluniv.maps.arcgis.com/apps/MapJournal/index.html?appid=bc38294006b242608fdbc65682ae74d4)
+* [TimeMapper](http://timemapper.okfnlabs.org/)  
 
 **Task**: Complete the [Exhibit Brainstorming](resources/exhibit_brainstorming.pdf) exercise. If you complete this, please work on locating additional sources from Franklin and Google Scholar.
 
@@ -159,11 +160,16 @@ While the Penn Museum has one of the largest collections of archaeological and e
 2. Describe your "Personas" (you should have at least three specific personas)
 3. Come up with at least 6 3x5 cards with story board ideas
 
+[Exhibit Goals and Personas Drafted Today](exhibit_planning.md)
+
 ### Friday, July 21 – Wireframing and Tool Selection
 
-* 
+* Bibliography Check
+* Wireframing Activity
+* Web Resource and Tool Selection
+* Background Research Check
 
-**Task**:
+**Task**: Using the cards created during yesterday's storyboarding activity, use the whiteboard to create a potential template for our website. The template must include the types of web applications we will be using to create each card. Based on this wireframe, create a list of any other topics that will need to be researched.
 
 ---
 
@@ -233,6 +239,26 @@ Patricia Guardiola, Assistant Head of the Fine Arts Library
 215-573-4637
 
 [pguar@upenn.edu](mailto:pguar@upenn.edu)
+
+![alt text](http://www.library.upenn.edu/images/staff/enderlej125.jpg "Scott Enderle")
+
+Scott Enderle, Digital Humanities Specialist
+
+[enderlej@sas.upenn.edu](mailto:enderlej@sas.upenn.edu)
+
+![alt text](http://www.library.upenn.edu/images/staff/mjanz125.jpg "Margaret Janz")
+
+Margaret Janz, Scholarly Communication and Data Curation Librarian
+
+215-898-4836
+
+[mjanz@upenn.edu](mailto:mjanz@upenn.edu)
+
+![alt text](http://www.library.upenn.edu/images/staff/sambarry125.jpg "Sam Kirk")
+
+Sam Kirk, Reference and Information Literacy Librarian
+
+[samkirk@pobox.upenn.edu](mailto:samkirk@pobox.upenn.edu)
 
 ![alt text](https://iweb.museum.upenn.edu/images/staff/Babylonian-Jones-Phil.jpg "Phil Jones")
 
