@@ -164,22 +164,49 @@ While the Penn Museum has one of the largest collections of archaeological and e
 
 ### Friday, July 21 – Wireframing and Tool Selection
 
-* Bibliography Check
 * Wireframing Activity
 * Web Resource and Tool Selection
-* Background Research Check
 
 **Task**: Using the cards created during yesterday's storyboarding activity, use the whiteboard to create a potential template for our website. The template must include the types of web applications we will be using to create each card. Based on this wireframe, create a list of any other topics that will need to be researched.
+
+#### Update! We have selected Omeka!
+
+Images from the Wireframing Activity:
+
+[Wireframe Draft](resources/wireframing2.jpg)
+
+[Wireframe Draft Close-Up 1](resources/wireframing3.jpg) | [Wireframe Draft Close-Up 2](resources/wireframing4.jpg) | [Wireframe Draft Close-Up 3](resources/wireframing5.jpg)
+
+[Wireframe Final Close-Up 1](resources/wireframing6.jpg) | [Wireframe Final Close-Up 2](resources/wireframing7.jpg) | [Wireframe Final Close-Up 3](resources/wireframing8.jpg)
+
+[Students at Work!](resources/wireframing1.jpg)
+
+[Site Plan](resources/wireframing9.jpg)
 
 ---
 
 ## Week 3 
 
-### Monday, July 24 – 
+### Monday, July 24 – Bibliography and Background Research
 
-* 
+* Bibliography Check
+* Background Research Check
 
-**Task**: 
+**Task**: Fill out the [bibliography](bibliography.md) with all the resources you have collected so far. Then work on completing the background research you identified on Friday.
+
+#### [Search the Penn Library Collection](http://www.library.upenn.edu/)
+
+#### Online Databases of Ancient Mesopotamian Material
+* [ArtStor](http://library.artstor.org/library/)
+  * [Sample Search](http://library.artstor.org/#/search/mesopotamian%20tablets;currentPage=1;pageSize=24)
+* [Smithsonian Collections](http://collections.si.edu/search/index.htm)
+  * [Sample Search](http://collections.si.edu/search/results.htm?q=mesopotamia+tablet&tag.cstype=all)
+* [Penn Museum Online Collections](http://www.penn.museum/collections/)
+  * [Sample Search](https://www.penn.museum/collections/search.php?term=tablet&submit_term=Submit+Query&object_name[]=tablet&department%5B%5D=babylonian)
+* [Penn Museum Videos on Internet Archive](https://archive.org/details/UPMAA_films)
+  * [Sample Search](https://archive.org/details/UPMAA_films?&and[]=iraq)
+* [Oriental Institute Online Collections](https://oi-idb.uchicago.edu/)
+  * [Sample Search](https://oi-idb.uchicago.edu/results.php?qb%5Boperator%5D%5B%5D=&qb%5Bdataset%5D%5B%5D=&qb%5Bfield%5D%5B%5D=&qb%5Bterm%5D%5B%5D=tablet)
 
 ### Tuesday, July 25 – 
 
