@@ -1,7 +1,8 @@
 # Bibliography
 
 Avril, Tom. "At Penn, ancient tablet shows this summer's eclipse mania is nothing new." *The Philadelphia Inquirer,* June 9, 2017. Accessed July 24, 2017. 	
->http://www.philly.com/philly/health/at-penn-ancient-tablet-shows-this-summers-eclipse-mania-is-nothing-new-20170609.html
+     
+   http://www.philly.com/philly/health/at-penn-ancient-tablet-shows-this-summers-eclipse-mania-is-nothing-new-20170609.html
 
 
 Dougherty, Raymond Philip, ed. *Archives from Erech: Time of Nebuchadrezzar and Nabonidus.* Vol. 1.  New Haven, Connecticut: Yale University Press, 1923.
