@@ -208,11 +208,12 @@ Images from the Wireframing Activity:
 * [Oriental Institute Online Collections](https://oi-idb.uchicago.edu/)
   * [Sample Search](https://oi-idb.uchicago.edu/results.php?qb%5Boperator%5D%5B%5D=&qb%5Bdataset%5D%5B%5D=&qb%5Bfield%5D%5B%5D=&qb%5Bterm%5D%5B%5D=tablet)
 
-### Tuesday, July 25 – 
+### Tuesday, July 25 – Adding Items in Omeka
 
-* 
+* Review how to add items in Omeka
+* Enter all tablets selected for your "Tablets" page
 
-**Task**: 
+**Task**: For each "tablet card", 
 
 ### Wednesday, July 26 – 
 
