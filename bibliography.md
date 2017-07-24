@@ -4,6 +4,7 @@ Avril, Tom. "At Penn, ancient tablet shows this summer's eclipse mania is nothin
 	
 http://www.philly.com/philly/health/at-penn-ancient-tablet-shows-this-summers-eclipse-mania-is-nothing-new-20170609.html
 
+
 Dougherty, Raymond Philip, ed. *Archives from Erech: Time of Nebuchadrezzar and Nabonidus.* Vol. 1.  New Haven, Connecticut: Yale University Press, 1923.
  
 Ehrenberg, Erica. *Uruk: Late Babylonian Seal Impressions on Eanna-Tablets.* Mainz am Rhein : von Zabern, 1999. 
