@@ -1,29 +1,28 @@
 # Bibliography
 
-Roberts, J. M. "Ancient Mesopotamia." In *The New Penguin History of the World*, 49-65. London: Penguin Books, 2007.
-
-Avril, Tom. "At Penn, ancient tablet shows this summer's eclipse mania is nothing new." *The Philadelphia Inquirer,* June 9, 2017. Accessed July 24, 2017. 
-	http://www.philly.com/philly/health/at-penn-ancient-tablet-shows-this-summers-eclipse-mania-is-nothing-new-20170609.html
+Avril, Tom. "At Penn, ancient tablet shows this summer's eclipse mania is nothing new." *The Philadelphia Inquirer,* June 9, 2017. Accessed July 24, 2017. 	
+     
+   http://www.philly.com/philly/health/at-penn-ancient-tablet-shows-this-summers-eclipse-mania-is-nothing-new-20170609.html
 
 Dougherty, Raymond Philip, ed. *Archives from Erech: Time of Nebuchadrezzar and Nabonidus.* Vol. 1.  New Haven, Connecticut: Yale University Press, 1923.
  
 Ehrenberg, Erica. *Uruk: Late Babylonian Seal Impressions on Eanna-Tablets.* Mainz am Rhein : von Zabern, 1999. 
 
-Gardner, John, John. R. Maier, and Richard A. Henshaw. *Gilgamesh: Translated from e Sîn-lersion.* New York: Alfred A. Knopf, 1984.
-niversity Museum, 1984.
+Gardner, John, John. R. Maier, and Richard A. Henshaw. *Gilgamesh: Translated from the Sîn-leqi-unninnī Version.* New York: Alfred A. Knopf, 1984.
 
-Parpola, Simo, ed. *The Standard Babylonian Epic of Gilgamesh: Cuneiform Text, Transliteration, Glossary, Indices and Sign List.* Neo-Assyrian Text Corpus Project, 1997.
+Gerardi, Pamela. *A Bibliography of the Tablet Collections of the University Museum.* Philadelphia: University Museum, 1984.
 
-Roberts, J. M. "Ancient Mesopotamia." In *The New Penguin History of the World*, 4form," in *The Story of Writing: Alphabets, Hieroglyphs, & Pictograms,* 70-91. London: Thames & Hudson, ⧸⧸2007. estri, d D., L. Tonelli, anV. Valeri. *The Earliest Script of Uruk:(Syntactic 
+Parpola, Simo, ed. *The Standard Babylonian Epic of Gilgamesh: Cuneiform Text, Transliteration, Glossary, Indices and Sign List.* Helsinki: The Neo-Assyrian Text Corpus Project, 1997.
 
-Analysieversitario Orientad le, 1990.
+Roberts, J. M. "Ancient Mesopotamia." In *The New Penguin History of the World.* 49-65. New York: Penguin, 2007.
 
-Snell, Daniel C., and Carl H. Lager. *Economic Texts from Sumer.* Babylonian Texts, Vol. XVIII. New Haven, Connecticut: Yale University Press, 1991. ⧸⧸
+Robinson, Andrew. "Cuneiform." In *The Story of Writing: Alphabets, Hieroglyphs, & Pictograms,* 70-91. New York: Thames & Hudson, 2007. 
 
-Stiebing,⧸⧸⧸⧸
+Silvestri, D., L. Tonelli, and V. Valeri. *The Earliest Script of Uruk: (Syntactic Analysis).* Istituto Universitario Orientale, 1990.
 
-⧸⧸*Note: Use⧸⧸Stiebing,⧸⧸ William H. Jr. "The Ancient Mesopotamian Empire.* In *Ancient Near Eastern History and Culture,* 65-102. New York: Longman, 200
- 2007.tools_citationguide.html)*
+Snell, Daniel C., and Carl H. Lager. *Economic Texts from Sumer.* Babylonian Texts, Vol. XVIII. New Haven, Connecticut: Yale University Press, 1991. 
+
+Stiebing, William H. Jr. "The Ancient Mesopotamian Empire." In *Ancient Near Eastern History and Culture,* 65-102. New York: Longman, 2007.
 
 
 **Whenever you make an update, don't forget to click on the "force synchronization" button!!**
