@@ -4,7 +4,7 @@ Welcome!
 
 [Slack](https://pennds.slack.com)
 
-[Omeka Site](http://hsdemo.upenndigitalscholarship.org/omeka/) | [Omeka Dashboard](http://hsdemo.upenndigitalscholarship.org/omeka/admin) | [Scalar](http://hsdemo.upenndigitalscholarship.org/scalar/)
+[Omeka Site](http://hsdemo.upenndigitalscholarship.org/omeka/) | [Omeka Dashboard](http://hsdemo.upenndigitalscholarship.org/omeka/admin)
 
 [Penn Library Home Page](http://www.library.upenn.edu/)
 
@@ -213,25 +213,35 @@ Images from the Wireframing Activity:
 * Review how to add items in Omeka
 * Enter all tablets selected for your "Tablets" page
 
-**Task**: For each "tablet card", 
+**Task**: For each "tablet card", create an Omeka item. Be sure to include a link to the Penn Museum collection page under "Source."
 
-### Wednesday, July 26 – 
+### Wednesday, July 26 – Digital Exhibit Building
 
-* 
+* Object Photography with Phil Jones
+* Using your wireframes, work on turning your designs into webpages.
 
-**Task**: 
+**Task**: Work on the pages that have been assigned to you. Some pages might be better as Exhibits while others might be better as Simple Pages. If you are unsure how to implement something, ask Sasha for recommendations or reference the links above.
 
-### Thursday, July 27 – 
+**Update! Images from our photography session today:**
 
-* 
+[Tablet Images](resources/tablet_images)
 
-**Task**: 
+[Students Working](resources/object_photography)
 
-### Friday, July 28 – 
+### Thursday, July 27 – Digital Exhibit Buildling Cont.
 
-* 
+* Continue to build your pages
 
-**Task**: 
+**Task**: Make sure that all images and quotes you reference on your pages are properly cited; complete the Bibliography and About pages.
+
+### Friday, July 28 – Wrap-Up and Review
+
+* Finish any remaining exhibit content
+* Review our Goals to assess our Digital Exhibit
+* Discuss how to collect and respond to feedback (if we had more time, we would do a Google Forms survey of our "audience")
+* Discuss the maintenance plan for this site
+
+**Task**: Eat Donuts and Celebrate! You did AMAZING WORK!!!!!
 
 ---
 
